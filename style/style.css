@@ -1,0 +1,60 @@
+* { margin: 0%; padding: 0%; line-height: 1.2; }
+
+.logo {position: absolute; top: 15px; left: 100px;}
+
+.menu {position: absolute; top: 15px; right: 0; width: 50%;}
+
+.topmenu {position: inherit; width: 70%; left: 30%; }
+
+li { list-style-type: none; float:left; padding: 0% 4%;  }
+
+.rightbox {position: absolute; right: 0; width: 50%;}
+
+.img_right {position: inherit; width: 100%; z-index: -1;}
+
+.leftbox {position: absolute; top: 100px; left: 100px; width: 35%; }
+
+.designation {color: orange; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.buttonsub {float: left; padding: 5px 20px; margin: 5px; border-radius: 24%; font-weight: bold; border: 2px solid;  }
+
+.sub1 {background-color: orange; border-color: orange; }
+
+.projects {position: absolute; top: 100%; left:15%; width: 70%; height: 1850px; background-color: whitesmoke; text-align: center;}
+
+.sample {margin-top: 50px; position: relative; border-radius: 2%; width: 100%; 
+    height: 400px; background-color:white; flex-direction: row;}
+
+.left_project, .right_project {width: 50%; height: inherit; padding-left: 30px; padding-right: 30px;}
+
+.left_project {border-radius: 2% 0 0 2%; position: absolute; top: 0; left: 0;}
+
+.right_project {border-radius:0 2% 2% 0 ; position: absolute; top: 0; right: 0;}
+
+.img_project {position: inherit; top: inherit; right: inherit; left: inherit; height: inherit; border-radius: inherit;}
+
+.project_button {border-radius: 24% 24%; position: inherit; left: 10px; border: 2px solid; padding: 8px; border-color: black;}
+
+.contact {margin-left: 15%; position: relative; left: 20%; width: 30%;}
+
+form {margin-top: 30px;}
+
+label {position: absolute; left: 0;}
+
+input {position: relative; left: 0; width: 100%;}
+
+#message {height: 100px;}
+
+button {position: absolute; right: 0; padding: 5px 15px; border-radius: 5px; margin-top: 10px; background-color: rgb(246, 183, 65);}
+
+.footer {margin-top: 60px; height: 40px;}
+
+.vector_img {height: inherit;}
+
+h5 {color: gray;}
+
+.orangeline {width: 50px; border-top: 60px; border: 1px solid; border-color: orange; position: absolute; left: 47%;}
+
+.img_circle {position: inherit; top: 70px; left: 70px; width: 70%; z-index: -1;}
+
+.about_body {position: absolute; top: 100%; left:15%; width: 70%; height: 500px; background-color: whitesmoke; text-align: center;}
